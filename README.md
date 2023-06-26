@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CopperSulphate
+- 👋 Hi, I’m Sagnik Sarkar
 - 👀 I’m interested in Data Science and data visualization
 - 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on Data Analysis projects
